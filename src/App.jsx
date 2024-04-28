@@ -10,6 +10,7 @@ function App() {
       <p>This is our app.</p>
       <p>Let's try to deploy this app on a VPS, as securely as po.</p>
       <p>Still struggling with git. It's a nightmare.</p>
+      <p>Trying to make more changes to my file. It feels endless.</p>
     </>
   )
 }
