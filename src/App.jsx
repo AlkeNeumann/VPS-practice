@@ -9,6 +9,7 @@ function App() {
       <h2>Hello! We are practicing VPS deployment.</h2>
       <p>This is our app.</p>
       <p>Let's try to deploy this app on a VPS, as securely as po.</p>
+      <p>Still struggling with git. It's a nightmare.</p>
     </>
   )
 }
